@@ -351,3 +351,12 @@ __vsc_prompt_cmd_original
 git checkout -b galaxy-table
 git status
 git add .
+git commit -m 'add galaxy table'
+git push origin galaxy-table
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+psql --username=freecodecamp --dbname=postgres
+git status
+psql --username=freecodecamp --dbname=postgres
