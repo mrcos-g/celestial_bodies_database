@@ -360,3 +360,6 @@ __vsc_prompt_cmd_original
 psql --username=freecodecamp --dbname=postgres
 git status
 psql --username=freecodecamp --dbname=postgres
+pg_dump -cC --inserts -U freecodecamp universe > universe.sql
+git status
+git add .
